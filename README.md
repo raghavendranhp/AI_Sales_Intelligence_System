@@ -65,20 +65,20 @@ streamlit run app.py
 ```
 
 ## Core Features
-
+![Homepage](assests/home_page.png)
 ### 1. AI Sales Summary Generator
 
 Aggregates total revenue, top categories, best-selling products, and city-wise performance over a selected date range. Sends a structured context to SeShat AI to generate an executive summary.
-
+![1](assests/ai_summary.png)
 ### 2. AI Low Performance Detection
 
 Identifies products with low sales volume and low revenue contribution. Uses SeShat AI to explain potential business reasons for underperformance and suggests corrective actions.
-
+![2](assests/low_performance_detection.png)
 ### 3. AI Smart Business Query
 
 Allows users to ask natural language questions about the sales data. The system retrieves relevant structured context and uses SeShat AI to provide a business-friendly answer.
-
+![3](assests/smart_business_query.png)
 ### 4. AI Sales Recommendation Engine
 
 Analyzes category performance, city growth opportunities, and payment mode usage to suggest products to promote and strategic areas for business focus.
-
+![4](assests/sales_recommendations.png)
