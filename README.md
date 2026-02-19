@@ -3,9 +3,10 @@
 ## Overview
 The SeShat AI Sales Intelligence System is an AI-powered analytics service designed to analyze electronics sales data, generate business insights, identify risk and performance trends, and provide AI-driven recommendations. It uses a Streamlit frontend, an SQLite database for structured data querying, and LangChain with the Groq API (Llama-3) for natural language insights.
 
+```
 ## Project Structure
 seshat_ai_analytics/
-├── .env
+├── .env 
 ├── requirements.txt
 ├── init_db.py
 ├── app.py
@@ -19,7 +20,7 @@ seshat_ai_analytics/
 ## Prerequisites
 * Python 3.10.10
 * A valid Groq API Key
-
+```
 ## Setup Instructions
 
 ### 1. Install Dependencies
